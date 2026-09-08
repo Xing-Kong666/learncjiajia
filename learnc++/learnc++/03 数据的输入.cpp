@@ -2,7 +2,7 @@
 using namespace std;
 #include <string>
 
-int main() {
+int main03() {
 	/*整型*/
 	int a = 0;
 	cout << "请输入整型a的值：" << endl;
