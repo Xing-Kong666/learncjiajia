@@ -2,7 +2,7 @@
 using namespace std;
 #include <string>
 
-int main() {
+int main02() {
 	/*整型*/
 	/*短整型short，整型int，长整型long，长长整型long long*/
 	int a = 193;

@@ -21,5 +21,8 @@
     <ClCompile Include="02 数据类型及其他字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03 数据的输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
