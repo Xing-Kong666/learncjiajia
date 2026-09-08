@@ -2,7 +2,7 @@
 using namespace std;
 /*1常量*/
 #define constant 10
-int main() {
+int main01() {
 	/*1变量*/
 	int variable=14;
 	cout << "variable= " << variable << endl;
