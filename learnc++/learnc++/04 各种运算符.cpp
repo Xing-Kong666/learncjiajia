@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main04() {
 	/*01ËãÊõÔËËã·û*/
 	//¼Ó¼õ³Ë³ı
 	int a = 23;
