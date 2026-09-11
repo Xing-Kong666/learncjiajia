@@ -86,6 +86,7 @@ int main() {
 	//用户输入
 	cin >> sw;
 	//switch结构
+	//相较于if,switch的结构更清晰，执行效率更高，但是switch的判定条件只能是整型或字符型
 	switch (sw) {
 	case 'a':
 	case 'b':
