@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main05() {
 	/*选择结构*/
 	//01单行单条件if选择结构
 	int score = 0;
