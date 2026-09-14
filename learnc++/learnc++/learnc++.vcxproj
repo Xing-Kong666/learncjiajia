@@ -130,6 +130,7 @@
     <ClCompile Include="05 选择结构.cpp" />
     <ClCompile Include="06 循环结构.cpp" />
     <ClCompile Include="07跳转语句.cpp" />
+    <ClCompile Include="08 数组.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

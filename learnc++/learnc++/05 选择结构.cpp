@@ -53,7 +53,7 @@ int main05() {
 	cin >> pig1;
 	cin >> pig2;
 	cin >> pig3;
-	//嵌套选择比较最重的猪
+	/*嵌套选择比较最重的猪*/
 	if (pig1 > pig2) {
 		if (pig1 > pig3) {
 			cout << "pig1最重" << endl;

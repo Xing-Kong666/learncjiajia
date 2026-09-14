@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main07() {
 	/*01breakÓï¾ä*/
 	//´òÓ¡Â¥²ãÊı
 	int floor = 0;
