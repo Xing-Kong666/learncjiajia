@@ -39,5 +39,8 @@
     <ClCompile Include="08 数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09 函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
