@@ -39,8 +39,16 @@
     <ClCompile Include="08 数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="09 函数.cpp">
+    <ClCompile Include="09-01 函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="09-02 函数的分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="09 函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

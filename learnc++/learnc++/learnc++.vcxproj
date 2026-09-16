@@ -131,7 +131,11 @@
     <ClCompile Include="06 循环结构.cpp" />
     <ClCompile Include="07跳转语句.cpp" />
     <ClCompile Include="08 数组.cpp" />
-    <ClCompile Include="09 函数.cpp" />
+    <ClCompile Include="09-01 函数.cpp" />
+    <ClCompile Include="09-02 函数的分文件编写.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="09 函数.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
