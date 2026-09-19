@@ -1,0 +1,15 @@
+﻿  01 hello world.cpp
+  010 指针.cpp
+  02 数据类型及其他字符.cpp
+D:\computer\git-repository\learnc++\learnc++\learnc++\02 数据类型及其他字符.cpp(56,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\computer\git-repository\learnc++\learnc++\learnc++\02 数据类型及其他字符.cpp(57,10): warning C4305: “初始化”: 从“double”到“float”截断
+  03 数据的输入.cpp
+  04 各种运算符.cpp
+  05 选择结构.cpp
+  06 循环结构.cpp
+  07跳转语句.cpp
+  08 数组.cpp
+  09-01 函数.cpp
+  09-02 函数的分文件编写.cpp
+  正在生成代码...
+  learnc++.vcxproj -> D:\computer\git-repository\learnc++\learnc++\Debug\learnc++.exe

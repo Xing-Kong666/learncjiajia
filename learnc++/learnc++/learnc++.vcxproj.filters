@@ -45,6 +45,9 @@
     <ClCompile Include="09-02 函数的分文件编写.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="010 指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
