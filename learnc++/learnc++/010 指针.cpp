@@ -27,7 +27,7 @@ void BubbleSort(int arr1[],int len) {
 		}
 	}
 }
-int main() {
+int main010() {
 	/*01指针的定义与使用*/
 	int a = 0;
 	//*为解引用，*ptr为指向的变量a，ptr为指针，存储的为a的地址

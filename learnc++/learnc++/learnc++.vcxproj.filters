@@ -48,6 +48,9 @@
     <ClCompile Include="010 指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="011 结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
