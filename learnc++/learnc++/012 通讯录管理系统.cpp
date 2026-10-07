@@ -125,7 +125,7 @@ void Show(person show[]) {
 	}
 }
 
-int main() {
+int main012() {
 	//功能调用
 	while (1) {
 		Menu();
