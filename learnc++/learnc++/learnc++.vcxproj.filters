@@ -60,6 +60,9 @@
     <ClCompile Include="014 引用类型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="015 函数高级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">

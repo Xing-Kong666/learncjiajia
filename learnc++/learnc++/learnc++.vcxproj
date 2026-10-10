@@ -128,6 +128,7 @@
     <ClCompile Include="011 结构体.cpp" />
     <ClCompile Include="012 通讯录管理系统.cpp" />
     <ClCompile Include="014 引用类型.cpp" />
+    <ClCompile Include="015 函数高级.cpp" />
     <ClCompile Include="02 数据类型及其他字符.cpp" />
     <ClCompile Include="03 数据的输入.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />

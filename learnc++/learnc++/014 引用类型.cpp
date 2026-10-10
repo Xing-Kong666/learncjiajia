@@ -30,7 +30,7 @@ void print(const int& p) {
 	cout << "p = " << p << endl;
 }
 
-int main() {
+int main014() {
 	/*01引用类型的写法*/
 	int a = 194;
 	//a的别名为b
