@@ -40,7 +40,7 @@ void init1(int& a) {
 void init1(const int& a) {
 	cout << "类型重载为常量引用 a =" <<a<< endl;
 }
-int main() {
+int main015() {
 	cout << "默认参数测试：" << endl;
 	func();
 	cout << endl;
