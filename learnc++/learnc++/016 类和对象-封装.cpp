@@ -49,6 +49,42 @@ public:
 		cout << "老师性别：" << t_sex << endl;
 	}
 };
+class point {//点类
+public:
+	void setx(int x) {
+		c_x = x;
+	}
+	int getx() {
+		return c_x;
+	}
+	void sety(int y) {
+		c_y = y;
+	}
+	int gety() {
+		return c_y;
+	}
+private:
+	int c_x;//x坐标
+	int c_y;//y坐标
+};
+class circle {//圆类
+public:
+	void setr(int r) {
+		c_r = r;
+	}
+	int getr() {
+		return c_r;
+	}
+	void setcenter(point center) {
+		c_center = center;
+	}
+	point getcenter() {
+		return c_center;
+	}
+private:
+	int c_r;//圆的半径
+	point c_center;//圆的圆心
+};
 
 //////////////////////03
 //struct 默认为公有
@@ -74,6 +110,23 @@ public:
 		cout << "星系位置：" << s_pos << endl;
 	}
 };
+void position(point x, circle y) {
+	//xy坐标的差值
+	int difx = y.getcenter().getx() - x.getx();
+	int dify = y.getcenter().gety() - x.gety();
+	//圆的半径
+	int cr = y.getr();
+	//求平方值的比较情况
+	int difxx = difx * difx;
+	int difyy = dify * dify;
+	if (difxx + difyy == cr * cr) {
+		cout << "点在圆上" << endl;
+	}
+	else if (difxx + difyy > cr * cr) {
+		cout << "点在圆外" << endl;
+	}
+	else cout << "点在圆内" << endl;
+}
 int main() {
 	cout << "测试一：" << endl << endl;
 	stu s;
@@ -103,9 +156,20 @@ int main() {
 	sc.cinrank(3);
 	sc.cinpos("太阳系第三大行星");
 	sc.coutstar();
+	cout << endl<<endl;
+
+	cout << "测试四：" << endl << endl;
+	point ep;
+	ep.setx(5);
+	ep.sety(5);
+	circle ec;
+	point ecp;
+	ecp.setx(5);
+	ecp.sety(0);
+	ec.setr(5);
+	ec.setcenter(ecp);
+	position(ep, ec);
 	cout << endl;
-
-
 	system("pause");
 	return 0;
 }
