@@ -130,6 +130,9 @@
     <ClCompile Include="014 引用类型.cpp" />
     <ClCompile Include="015 函数高级.cpp" />
     <ClCompile Include="016 类和对象-封装.cpp" />
+    <ClCompile Include="016-circle.cpp" />
+    <ClCompile Include="016-circle.h" />
+    <ClCompile Include="016-point.cpp" />
     <ClCompile Include="02 数据类型及其他字符.cpp" />
     <ClCompile Include="03 数据的输入.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />
@@ -143,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h" />
+    <ClInclude Include="016-point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

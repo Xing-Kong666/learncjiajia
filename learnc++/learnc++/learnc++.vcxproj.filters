@@ -66,9 +66,21 @@
     <ClCompile Include="016 类和对象-封装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="016-point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="016-circle.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="016-circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="016-point.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

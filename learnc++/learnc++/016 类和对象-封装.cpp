@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+#include "016-circle.h"//类的分文件编写
 
 /*01类的定义，成员属性，成员函数*/
 /*02类的访问权限*/
@@ -49,42 +50,42 @@ public:
 		cout << "老师性别：" << t_sex << endl;
 	}
 };
-class point {//点类
-public:
-	void setx(int x) {
-		c_x = x;
-	}
-	int getx() {
-		return c_x;
-	}
-	void sety(int y) {
-		c_y = y;
-	}
-	int gety() {
-		return c_y;
-	}
-private:
-	int c_x;//x坐标
-	int c_y;//y坐标
-};
-class circle {//圆类
-public:
-	void setr(int r) {
-		c_r = r;
-	}
-	int getr() {
-		return c_r;
-	}
-	void setcenter(point center) {
-		c_center = center;
-	}
-	point getcenter() {
-		return c_center;
-	}
-private:
-	int c_r;//圆的半径
-	point c_center;//圆的圆心
-};
+//class point {//点类
+//public:
+//	void setx(int x) {
+//		c_x = x;
+//	}
+//	int getx() {
+//		return c_x;
+//	}
+//	void sety(int y) {
+//		c_y = y;
+//	}
+//	int gety() {
+//		return c_y;
+//	}
+//private:
+//	int c_x;//x坐标
+//	int c_y;//y坐标
+//};
+//class circle {//圆类
+//public:
+//	void setr(int r) {
+//		c_r = r;
+//	}
+//	int getr() {
+//		return c_r;
+//	}
+//	void setcenter(point center) {
+//		c_center = center;
+//	}
+//	point getcenter() {
+//		return c_center;
+//	}
+//private:
+//	int c_r;//圆的半径
+//	point c_center;//圆的圆心
+//};
 
 //////////////////////03
 //struct 默认为公有
