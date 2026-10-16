@@ -133,6 +133,8 @@
     <ClCompile Include="016-circle.cpp" />
     <ClCompile Include="016-circle.h" />
     <ClCompile Include="016-point.cpp" />
+    <ClCompile Include="017 构造函数和析构函数.cpp" />
+    <ClCompile Include="018 构造函数的分类和调用.cpp" />
     <ClCompile Include="02 数据类型及其他字符.cpp" />
     <ClCompile Include="03 数据的输入.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />

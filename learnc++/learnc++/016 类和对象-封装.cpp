@@ -128,7 +128,7 @@ void position(point x, circle y) {
 	}
 	else cout << "点在圆内" << endl;
 }
-int main() {
+int main016() {
 	cout << "测试一：" << endl << endl;
 	stu s;
 	s.s_name = "小明";

@@ -75,6 +75,12 @@
     <ClCompile Include="016-circle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="017 构造函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="018 构造函数的分类和调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
