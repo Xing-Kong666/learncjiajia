@@ -30,7 +30,7 @@ private:
 	int page;
 };
 
-int main() {
+int main018() {
 	cout << "构造函数分类测试" << endl << endl;
 	cout << "测试一：默认构造函数" << endl << endl;
 	persons ex1;
