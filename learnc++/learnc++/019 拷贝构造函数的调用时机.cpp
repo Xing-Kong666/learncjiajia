@@ -5,7 +5,7 @@ using namespace std;
 拷贝构造函数的调用
 1、一个实例化对象初始另一个对象
 2、作为参数传递
-3、作为返回值进行值传递 
+3、作为返回值进行值传递
 */
 class hero {
 public:
@@ -29,7 +29,7 @@ hero test02() {
 	cout << (int)&t << endl;
 	return t;
 }
-int main() {
+int main019() {
 	cout << "测试一：实例化对象初始化" << endl;
 	hero l;
 	hero b(l);
