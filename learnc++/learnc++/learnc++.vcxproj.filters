@@ -87,6 +87,9 @@
     <ClCompile Include="020 拷贝构造函数的调用规则.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="021 深拷贝与浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">

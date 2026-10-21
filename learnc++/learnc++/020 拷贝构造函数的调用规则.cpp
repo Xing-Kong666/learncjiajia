@@ -30,7 +30,7 @@ public:
 private:
 	int c;
 };
-int main() {
+int main020() {
 	cout << "测试一：设有参" << endl;
 	//没有默认构造函数，调用会出错
 	//bear ex1;
