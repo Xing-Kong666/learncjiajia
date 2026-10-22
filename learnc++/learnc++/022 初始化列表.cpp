@@ -30,7 +30,7 @@ void test02201() {
 	person22 ex2;
 	ex2.printcontent();
 }
-int main() {
+int main022() {
 	test02201();
 	system("pause");
 	return 0;
