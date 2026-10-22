@@ -139,6 +139,7 @@
     <ClCompile Include="02 数据类型及其他字符.cpp" />
     <ClCompile Include="020 拷贝构造函数的调用规则.cpp" />
     <ClCompile Include="021 深拷贝与浅拷贝.cpp" />
+    <ClCompile Include="022 初始化列表.cpp" />
     <ClCompile Include="03 数据的输入.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />
     <ClCompile Include="05 选择结构.cpp" />

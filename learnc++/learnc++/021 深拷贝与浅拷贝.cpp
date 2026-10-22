@@ -35,7 +35,7 @@ void test01() {
 	cout << "ex2 = " << ex2.p_age <<" height = "<<*ex2.p_height<< endl;
 }
 
-int main() {
+int main021() {
 	test01();
 	system("pause");
 	return 0;

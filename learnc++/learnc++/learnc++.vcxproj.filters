@@ -90,6 +90,9 @@
     <ClCompile Include="021 深拷贝与浅拷贝.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="022 初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
