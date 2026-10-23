@@ -141,6 +141,7 @@
     <ClCompile Include="021 深拷贝与浅拷贝.cpp" />
     <ClCompile Include="022 初始化列表.cpp" />
     <ClCompile Include="023 类成员.cpp" />
+    <ClCompile Include="024 静态成员.cpp" />
     <ClCompile Include="03 数据的输入.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />
     <ClCompile Include="05 选择结构.cpp" />
