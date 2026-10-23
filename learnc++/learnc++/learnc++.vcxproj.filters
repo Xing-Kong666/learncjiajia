@@ -99,6 +99,9 @@
     <ClCompile Include="024 静态成员.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="025 成员属性和成员函数分开存储.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">

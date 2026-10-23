@@ -23,3 +23,10 @@ int main01() {
 	system("pause");
 	return 0;
 }
+//#include <iostream>
+//using namespace std;
+//
+//int main() {
+//	system("pause");
+//	return 0;
+//}

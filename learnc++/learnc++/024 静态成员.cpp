@@ -66,7 +66,7 @@ void test02401() {
 	*/
 	//ex2.print();
 }
-int main() {
+int main024() {
 	test02401();
 	system("pause");
 	return 0;
