@@ -31,6 +31,8 @@ private:
 	static string p_name;
 };
 
+//非静态成员不可以在类外初始化
+//int person24::ce = 43;
 //类外初始化，表示为person24的类成员
 int person24::p_age = 18;
 string person24::p_name = "z";

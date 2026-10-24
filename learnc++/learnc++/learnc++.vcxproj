@@ -143,6 +143,9 @@
     <ClCompile Include="023 类成员.cpp" />
     <ClCompile Include="024 静态成员.cpp" />
     <ClCompile Include="025 成员属性和成员函数分开存储.cpp" />
+    <ClCompile Include="026 this指针.cpp" />
+    <ClCompile Include="027 空指针访问成员函数.cpp" />
+    <ClCompile Include="028 常对象和常函数.cpp" />
     <ClCompile Include="03 数据的输入.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />
     <ClCompile Include="05 选择结构.cpp" />

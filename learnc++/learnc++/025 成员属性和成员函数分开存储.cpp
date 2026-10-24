@@ -38,7 +38,7 @@ void test02501(){
 	*/
 	cout << "只含方法类的内存大小 = " << sizeof(ex3) << endl;
 }
-int main() {
+int main025() {
 	test02501();
 	system("pause");
 	return 0;
