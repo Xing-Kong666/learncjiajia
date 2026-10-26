@@ -111,6 +111,12 @@
     <ClCompile Include="028 常对象和常函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="029 全局函数作友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="030 类作为友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">

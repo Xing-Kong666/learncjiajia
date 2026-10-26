@@ -28,7 +28,7 @@ void test02801() {
 	const a028 ex1;
 	ex1.init();
 	cout << ex1.a << endl;
-	//ex1.in();不可访问常函数
+	//ex1.in();不可访问非常函数
 	a028 ex2;
 	ex2.init();
 	ex2.in();

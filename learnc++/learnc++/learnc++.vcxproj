@@ -146,7 +146,9 @@
     <ClCompile Include="026 this指针.cpp" />
     <ClCompile Include="027 空指针访问成员函数.cpp" />
     <ClCompile Include="028 常对象和常函数.cpp" />
+    <ClCompile Include="029 全局函数作友元.cpp" />
     <ClCompile Include="03 数据的输入.cpp" />
+    <ClCompile Include="030 类作为友元.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />
     <ClCompile Include="05 选择结构.cpp" />
     <ClCompile Include="06 循环结构.cpp" />
