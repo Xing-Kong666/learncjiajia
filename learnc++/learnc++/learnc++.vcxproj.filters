@@ -117,6 +117,9 @@
     <ClCompile Include="030 类作为友元.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="031 成员函数作为友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
