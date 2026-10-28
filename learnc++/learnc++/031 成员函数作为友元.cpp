@@ -48,7 +48,7 @@ void test031() {
 	ex.pri();
 	ex.pub();
 }
-int main() {
+int main031() {
 	test031();
 	system("pause");
 	return 0;
