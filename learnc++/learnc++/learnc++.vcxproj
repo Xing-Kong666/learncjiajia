@@ -153,6 +153,9 @@
     <ClCompile Include="032 c++运算符重载.cpp" />
     <ClCompile Include="033 左移运算符重载.cpp" />
     <ClCompile Include="034 自减运算符重载.cpp" />
+    <ClCompile Include="035 赋值运算符重载.cpp" />
+    <ClCompile Include="036 关系运算符重载.cpp" />
+    <ClCompile Include="037 函数调用运算符重载.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />
     <ClCompile Include="05 选择结构.cpp" />
     <ClCompile Include="06 循环结构.cpp" />
