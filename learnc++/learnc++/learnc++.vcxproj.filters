@@ -138,6 +138,9 @@
     <ClCompile Include="037 函数调用运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="038 继承基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
