@@ -157,7 +157,10 @@
     <ClCompile Include="036 关系运算符重载.cpp" />
     <ClCompile Include="037 函数调用运算符重载.cpp" />
     <ClCompile Include="038 继承基本语法.cpp" />
+    <ClCompile Include="039 继承的基本分类.cpp" />
     <ClCompile Include="04 各种运算符.cpp" />
+    <ClCompile Include="040 继承中的对象模型.cpp" />
+    <ClCompile Include="041 父类子类构造和析构顺序.cpp" />
     <ClCompile Include="05 选择结构.cpp" />
     <ClCompile Include="06 循环结构.cpp" />
     <ClCompile Include="07跳转语句.cpp" />

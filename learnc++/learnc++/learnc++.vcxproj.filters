@@ -141,6 +141,15 @@
     <ClCompile Include="038 继承基本语法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="039 继承的基本分类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="040 继承中的对象模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="041 父类子类构造和析构顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
