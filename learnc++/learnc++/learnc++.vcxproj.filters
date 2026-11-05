@@ -150,6 +150,18 @@
     <ClCompile Include="041 父类子类构造和析构顺序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="042 同名成员访问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="043 同名静态成员访问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="044 多继承的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="045 菱形继承及解决办法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
