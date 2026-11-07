@@ -162,6 +162,21 @@
     <ClCompile Include="045 菱形继承及解决办法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="046 多态的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="047 多态的底层剖析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="048 多态实例1-计算器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="049 纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="050 多态案例2-制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
