@@ -171,6 +171,9 @@
     <ClCompile Include="049 纯虚函数和抽象类.cpp" />
     <ClCompile Include="05 选择结构.cpp" />
     <ClCompile Include="050 多态案例2-制作饮品.cpp" />
+    <ClCompile Include="051 虚析构和纯虚析构.cpp" />
+    <ClCompile Include="052 多态案例3-计算机运行.cpp" />
+    <ClCompile Include="053 文件流-写文件.cpp" />
     <ClCompile Include="06 循环结构.cpp" />
     <ClCompile Include="07跳转语句.cpp" />
     <ClCompile Include="08 数组.cpp" />

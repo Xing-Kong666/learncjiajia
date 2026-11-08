@@ -177,6 +177,15 @@
     <ClCompile Include="050 多态案例2-制作饮品.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="051 虚析构和纯虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="052 多态案例3-计算机运行.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="053 文件流-写文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
