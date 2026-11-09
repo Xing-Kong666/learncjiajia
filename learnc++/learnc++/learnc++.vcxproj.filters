@@ -186,6 +186,15 @@
     <ClCompile Include="053 文件流-写文件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="054 文件流-读文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="055 文件流-二进制写文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="056 文件流-二进制读文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
