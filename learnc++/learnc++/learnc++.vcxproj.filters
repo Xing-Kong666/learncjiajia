@@ -195,12 +195,42 @@
     <ClCompile Include="056 文件流-二进制读文件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="057 职工管理系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057-workermanage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057-worker.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057-employee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057-manager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057-boss.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="016-point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="057-workermanege.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="057-employee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="057-manager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="057-boss.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

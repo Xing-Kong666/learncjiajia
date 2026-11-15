@@ -177,6 +177,12 @@
     <ClCompile Include="054 文件流-读文件.cpp" />
     <ClCompile Include="055 文件流-二进制写文件.cpp" />
     <ClCompile Include="056 文件流-二进制读文件.cpp" />
+    <ClCompile Include="057 职工管理系统.cpp" />
+    <ClCompile Include="057-boss.cpp" />
+    <ClCompile Include="057-manager.cpp" />
+    <ClCompile Include="057-employee.cpp" />
+    <ClCompile Include="057-worker.h" />
+    <ClCompile Include="057-workermanage.cpp" />
     <ClCompile Include="06 循环结构.cpp" />
     <ClCompile Include="07跳转语句.cpp" />
     <ClCompile Include="08 数组.cpp" />
@@ -185,6 +191,10 @@
     <ClCompile Include="013 内存四区.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="057-boss.h" />
+    <ClInclude Include="057-employee.h" />
+    <ClInclude Include="057-manager.h" />
+    <ClInclude Include="057-workermanege.h" />
     <ClInclude Include="09 函数.h" />
     <ClInclude Include="016-point.h" />
   </ItemGroup>
