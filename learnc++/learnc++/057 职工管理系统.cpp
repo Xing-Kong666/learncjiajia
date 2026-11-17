@@ -6,7 +6,7 @@ using namespace std;
 #include "057-boss.h"
 #include "057-workermanege.h"
 
-int main() {
+int main057() {
 	workermanage wm;
 	int choice;
 	while (1) {
