@@ -228,6 +228,9 @@
     <ClCompile Include="062 模板的局限性.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="063 类模板的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
