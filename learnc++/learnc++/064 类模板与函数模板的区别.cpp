@@ -26,7 +26,7 @@ void test064() {
 	cout << p2.m_age << " " << p2.m_name << endl;
 
 }
-int main() {
+int main064() {
 	test064();
 	system("pause");
 	return 0;
