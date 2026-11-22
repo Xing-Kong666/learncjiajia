@@ -246,6 +246,12 @@
     <ClCompile Include="068 类模板中函数的类外实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="069 类模板的分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="personsn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
@@ -264,6 +270,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="057-boss.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="personsn.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="personsn.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
