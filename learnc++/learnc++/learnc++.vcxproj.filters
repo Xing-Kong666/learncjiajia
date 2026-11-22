@@ -249,7 +249,10 @@
     <ClCompile Include="069 类模板的分文件编写.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="personsn.cpp">
+    <ClCompile Include="069-personsn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="069-temp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -272,10 +275,13 @@
     <ClInclude Include="057-boss.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="personsn.hpp">
+    <ClInclude Include="069-personsn.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="personsn.h">
+    <ClInclude Include="069-personsn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="069-temp.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

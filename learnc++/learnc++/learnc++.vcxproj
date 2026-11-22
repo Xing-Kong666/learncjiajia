@@ -201,7 +201,8 @@
     <ClCompile Include="09-01 函数.cpp" />
     <ClCompile Include="09-02 函数的分文件编写.cpp" />
     <ClCompile Include="013 内存四区.cpp" />
-    <ClCompile Include="personsn.cpp" />
+    <ClCompile Include="069-personsn.cpp" />
+    <ClCompile Include="069-temp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="057-boss.h" />
@@ -210,8 +211,9 @@
     <ClInclude Include="057-workermanege.h" />
     <ClInclude Include="09 函数.h" />
     <ClInclude Include="016-point.h" />
-    <ClInclude Include="personsn.h" />
-    <ClInclude Include="personsn.hpp" />
+    <ClInclude Include="069-personsn.h" />
+    <ClInclude Include="069-personsn.hpp" />
+    <ClInclude Include="069-temp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
