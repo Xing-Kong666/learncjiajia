@@ -10,7 +10,7 @@ void printcontent(int a) {
 	cout << "普通函数的调用" << endl;
 }
 template<class T>
-//模板必须退出T的数据类型才能使用，也就是参数里得有T,由此推出参数列表不为空
+//模板必须推出T的数据类型才能使用，也就是参数里得有T,由此推出参数列表不为空
 void printcontent(T a) {
 	cout << "模板函数的调用" << endl;
 }
