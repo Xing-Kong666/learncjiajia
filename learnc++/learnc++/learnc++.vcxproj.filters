@@ -213,7 +213,7 @@
     <ClCompile Include="057-boss.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="058 模版基本语法及注意事项.cpp">
+    <ClCompile Include="058 模板基本语法及注意事项.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="059 函数模板案例-实现排序.cpp">
@@ -253,6 +253,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="069-temp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="070 类模板与友元.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
