@@ -258,6 +258,9 @@
     <ClCompile Include="070 类模板与友元.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="071 数组类模板封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="09 函数.h">
@@ -285,6 +288,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="069-temp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="071-arrayso.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
