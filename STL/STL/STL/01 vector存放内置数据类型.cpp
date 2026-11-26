@@ -34,7 +34,7 @@ void test01() {
 	cout << "method3:"<<endl;
 	for_each(ex.begin(), ex.end(), fun);
 }
-int main() {
+int main01() {
 	test01();
 	system("pause");
 	return 0;
