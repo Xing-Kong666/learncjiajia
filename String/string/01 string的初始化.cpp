@@ -2,10 +2,10 @@
 using namespace std;
 #include <string>
 
-//string();
-//string(const char* s);
-//string(const string& s);
-//string(int n, char c);
+//string();//无参构造
+//string(const char* s);//char* 字面量初始化
+//string(const string& s);//string 字面量初始化
+//string(int n, char c);//目标赋值为n个字符c
 void test01() {
 	string ex1;
 	ex1 = "hello";
