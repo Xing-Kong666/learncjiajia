@@ -126,6 +126,11 @@
     <ClCompile Include="01 string的初始化.cpp" />
     <ClCompile Include="02 string的赋值.cpp" />
     <ClCompile Include="03 string的拼接.cpp" />
+    <ClCompile Include="04 string的查找和替换.cpp" />
+    <ClCompile Include="05 string的比较.cpp" />
+    <ClCompile Include="06 string的字符存取.cpp" />
+    <ClCompile Include="07 string的插入删除.cpp" />
+    <ClCompile Include="08 string的字串获取.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
